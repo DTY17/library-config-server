@@ -30,7 +30,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/DTY17/library-config-yml.git
+          uri: https://github.com/DTY17/library-config-server-yml.git
           default-label: main
           search-paths: configuration,platform,service
 
@@ -57,6 +57,6 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/DTY17/library-config-yml.git
+          uri: https://github.com/DTY17/library-config-server-yml.git
           default-label: main
           search-paths: configuration,platform,service
