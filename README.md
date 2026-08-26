@@ -1,5 +1,6 @@
 # ⚙️ Library Management System — Config Server
 
+## config server yml URL : https://github.com/DTY17/library-config-server-yml.git
 Centralized configuration service for the **Library Management System Microservices Architecture**, built using **Spring Cloud Config Server**.
 
 The Config Server provides a single location for managing configuration across the application's microservices. Configuration is maintained in a dedicated GitHub repository and delivered to services such as the **API Gateway, Eureka Server, User Service, Book Service, and Record Service**.
