@@ -5,6 +5,13 @@ Centralized configuration service for the **Library Management System Microservi
 
 The Config Server provides a single location for managing configuration across the application's microservices. Configuration is maintained in a dedicated GitHub repository and delivered to services such as the **API Gateway, Eureka Server, User Service, Book Service, and Record Service**.
 
+## 👤 Student Information
+
+- **Student Name:** Dinan ThemikA  
+- **Student Number:** 241722003  
+- **Slack Handle:** *(Not provided)*  
+- **GCP Project ID:** graceful-system-415016
+
 ---
 
 ## 📌 Overview
